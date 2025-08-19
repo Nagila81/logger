@@ -2,6 +2,7 @@
 var login = document.getElementById("login");
 
 login.addEventListener("click", function(){
+    
     var user = document.getElementById("userLogin").value;
     var password = document.getElementById("passwordLogin").value;
 
